@@ -3,4 +3,4 @@
 
 Here you will find all style guides.
 
-[SQL style Guide](sql_style_guide/README.md)
+[SQL style guide](sql_style_guide/README.md)
